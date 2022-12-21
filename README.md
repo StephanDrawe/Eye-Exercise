@@ -1,7 +1,7 @@
 # Eye-Exercise
 ## Description:
 This is the 'Eyes Exercise' project assignment through MIT coding bootcamp.
-This project tracks the movement of the mouse with images of two eyes created using CSS. The purpose of this project is to learn to code DOM manipulation through JavaScript, CSS, and HTML with external inputs such as the mouse movement.
+This project tracks the movement of the mouse with images of two eyes created using CSS. The purpose of this project is to learn to code DOM manipulation through JavaScript, CSS, and HTML with an external inputs, such as the mouse movement.
 ## How to Run:
 1. Fork the repository in its entirety into your account.
 2. clone the repository to your machine.
