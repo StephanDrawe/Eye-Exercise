@@ -8,7 +8,7 @@ This project tracks the movement of the mouse with images of two eyes created us
 3. Open the 'index.html' file in your browser of choice.
 4. Move your mouse around the browser window to see the 'eyes' follow your movement.
 ## Roadmap of future improvements:
-In the next iterations of the program, we will add more styles and import images of people or characters who's eyes follows the mouse movement.
+In the next iterations of the program, we will add more styles and import images of people or characters whose eyes follow the mouse movement.
 ## License information:
 This is a free, and open source code available to use for commercial projects, open source projects, and any other projects.
 
